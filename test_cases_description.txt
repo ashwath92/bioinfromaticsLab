@@ -1,0 +1,9 @@
+The following test cases have been created for all the 5 programs.
+
+1. Test for inheritance: test that the concrete class has been inherited from the corresponding abstract class.
+2. Successful test: valid result returned by the corresponding run function.
+3. Failure test 1: Invalid file format: first line of one of the fasta files doesn't start with >.
+4. Failure test 2: Invalid file format: one of the fasta files contains non-amino acid characters.
+5. Failure test 3: Too few arguments have been passed from the command line.
+
+To execute the test cases, run 'pytest' from the main folder which contains the 5 programs: gotoh.py, uwpgma.py, feng_doolittle.py, nussinov_alg.py and needleman_wunsch.py. 	

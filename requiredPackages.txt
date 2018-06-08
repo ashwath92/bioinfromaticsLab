@@ -1,0 +1,9 @@
+This document contains the packages which are used in each program. It's divided into 2 parts: 
+1. Standard packages which are generally available with a python installation
+2. Additional packages which may have to be installed
+
+The following packages are required to execute all the programs without a problem.
+1. Standard packages: re, os, sys, random, copy, decimal, io, math
+2. Additional packages: biopython, numpy, argparse, matplotlib
+
+The method of execution is given in the README.md file
